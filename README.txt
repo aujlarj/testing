@@ -1,1 +1,1 @@
-Assignment for UVIC SEng 296 course
+Assignment for UVIC SEng 299 course
